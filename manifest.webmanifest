@@ -1,0 +1,17 @@
+{
+  "name": "Bünzli-Survival",
+  "short_name": "Bünzli",
+  "description": "Ein Spiel über die ungeschriebenen Regeln der Schweiz – für Neuzuziehende, in 14 Sprachfassungen.",
+  "lang": "de",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#16202A",
+  "theme_color": "#16202A",
+  "icons": [
+    {"src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png"},
+    {"src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
