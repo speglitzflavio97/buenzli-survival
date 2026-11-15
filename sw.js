@@ -1,5 +1,5 @@
 // Bünzli-Survival: offline support. Keeps the game and the fonts it used on the device.
-const CACHE = 'bz-v36';
+const CACHE = 'bz-v37';
 const CORE = ['./', './index.html', './fonts.css', './manifest.webmanifest', './icons/icon-192.png', './icons/icon-512.png'];
 self.addEventListener('install', e => {
   e.waitUntil(caches.open(CACHE).then(c => c.addAll(CORE)).then(() => self.skipWaiting()));

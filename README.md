@@ -1,7 +1,7 @@
 # Bünzli-Survival
 
-Ein humorvolles Spiel für Neuzuziehende in der Schweiz: Es erklärt die ungeschriebenen Regeln des Alltags, in 14 Sprachen.
+Vertraulicher Vorabzugang. Das Spiel ist verschlüsselt und nur mit persönlichem Zugangscode spielbar.
 
-Konzept, Kreation und Projektleitung: Flavio Speglitz · ciao@flaviospeglitz.ch
+Kontakt: Flavio Speglitz · ciao@flaviospeglitz.ch
 
-© 2026 Flavio Speglitz. Alle Rechte vorbehalten.
+© 2026 Flavio Speglitz. Alle Rechte vorbehalten. Keine Nutzung, Veränderung oder Weiterverbreitung ohne schriftliche Zustimmung.
